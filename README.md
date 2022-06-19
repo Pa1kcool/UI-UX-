@@ -1,5 +1,5 @@
 # UI-UX
-Check out My Design works: 
+Check out My Design works: <br>
 <a href="https://deepthought.education/">DeepThought</a><br>
 <a href="http://tedxvitchennai.com/">TEDxVITChennai</a><br>
 <a href="http://procarrier.herokuapp.com/">ProCarrier</a><br>
